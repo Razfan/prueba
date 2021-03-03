@@ -82,7 +82,7 @@ public class gestionVivienda {
     }
 
     /**
-     *
+     * informacion vivienda
      * @param vivi
      */
     public static void infoVivienda(TreeSet<Vivienda> vivi) {
